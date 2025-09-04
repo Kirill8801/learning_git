@@ -21,11 +21,15 @@ ruff_cache/
 
 # IDE
 .idea/
+
+
 .vscode/
 *.iml
 
 # OS
 .DS_Store
+
+
 
 # Logs
 *.log
