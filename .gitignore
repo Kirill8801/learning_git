@@ -27,5 +27,7 @@ ruff_cache/
 # OS
 .DS_Store
 
+
 # Logs
 *.log
+
